@@ -16,3 +16,5 @@ npm test
 #### 914. [卡牌分组](https://github.com/materialcoder/leetcode-js/code/array/914.js)
 #### 605. [种花问题](https://github.com/materialcoder/leetcode-js/code/array/605.js)
 #### 89. [格雷编码](https://github.com/materialcoder/leetcode-js/code/array/89.js)
+#### 459. [重复的子字符串](https://github.com/materialcoder/leetcode-js/code/regexp/459.js)
+#### 10. [正则表达式匹配]((https://github.com/materialcoder/leetcode-js/code/regexp/10.js)
