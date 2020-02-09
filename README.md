@@ -26,6 +26,9 @@ npm test
 #### 164. [最大间距](https://github.com/materialcoder/leetcode-js/blob/master/code/sort/164.js)
 #### 41. [缺失的第一个正数](https://github.com/materialcoder/leetcode-js/blob/master/code/sort/41.js)
 
+#### 93. [复原IP地址](https://github.com/materialcoder/leetcode-js/blob/master/code/recursive/93.js)
+#### 30. [串联所有单词的子串](https://github.com/materialcoder/leetcode-js/blob/master/code/recursive/30.js)
+
 
 ### 4. 排序算法
 https://www.jianshu.com/p/f4cca5ce055a
