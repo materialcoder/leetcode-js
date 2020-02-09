@@ -24,15 +24,16 @@ npm test
 #### 922. [按奇偶排序数组 II](https://github.com/materialcoder/leetcode-js/blob/master/code/sort/922.js)
 #### 215. [数组中的第K个最大元素](https://github.com/materialcoder/leetcode-js/blob/master/code/sort/215.js)
 #### 164. [最大间距](https://github.com/materialcoder/leetcode-js/blob/master/code/sort/164.js)
+#### 41. [缺失的第一个正数](https://github.com/materialcoder/leetcode-js/blob/master/code/sort/41.js)
 
 
 ### 4. 排序算法
 https://www.jianshu.com/p/f4cca5ce055a
-排序算法 | 平均时间复杂度 | 最好情况 | 最坏情况 | 空间复杂度
- - | :-: | :-: | :-: | :-: 
-冒泡排序|O($n^2$)|O(n)|O($n^2$)|O(1)|
-选择排序|O($n^2$)|O($n^2$)|O($n^2$)|O(1)|
-插入排序|O($n^2$)|O(n)|O($n^2$)|O(1)|
-希尔排序|O($nlogn$)|O($nlog^2n$)|O($nlog^2n$)|O(1)|
-归并排序|O($nlogn$)|O($nlogn$)|O($nlogn$)|O(n)|
-快速排序|O($nlogn$)|O($nlogn$)|O($n^2$)|O($logn$)|
+| 排序算法 | 平均时间复杂度 | 最好情况 | 最坏情况 | 空间复杂度 |
+| - | :-: | :-: | :-: | :-: |
+|冒泡排序|O($n^2$)|O(n)|O($n^2$)|O(1)|
+|选择排序|O($n^2$)|O($n^2$)|O($n^2$)|O(1)|
+|插入排序|O($n^2$)|O(n)|O($n^2$)|O(1)|
+|希尔排序|O($nlogn$)|O($nlog^2n$)|O($nlog^2n$)|O(1)|
+|归并排序|O($nlogn$)|O($nlogn$)|O($nlogn$)|O(n)|
+|快速排序|O($nlogn$)|O($nlogn$)|O($n^2$)|O($logn$)|
