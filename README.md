@@ -29,6 +29,8 @@ npm test
 #### 93. [复原IP地址](https://github.com/materialcoder/leetcode-js/blob/master/code/recursive/93.js)
 #### 30. [串联所有单词的子串](https://github.com/materialcoder/leetcode-js/blob/master/code/recursive/30.js)
 
+#### 682. [棒球比赛](https://github.com/materialcoder/leetcode-js/blob/master/code/stack/682.js)
+#### 85. [最大矩形](https://github.com/materialcoder/leetcode-js/blob/master/code/stack/85.js)
 
 ### 4. 排序算法
 https://www.jianshu.com/p/f4cca5ce055a
