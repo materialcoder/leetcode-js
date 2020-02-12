@@ -35,16 +35,21 @@ npm test
 #### 622. [设计循环队列](https://github.com/materialcoder/leetcode-js/blob/master/code/queue/622.js)
 #### 621. [任务调度器](https://github.com/materialcoder/leetcode-js/blob/master/code/queue/621.js)
 
+#### 148. [链表的排序](https://github.com/materialcoder/leetcode-js/blob/master/code/chain/148.js)
+#### 141. [环形链表](https://github.com/materialcoder/leetcode-js/blob/master/code/chain/141.js)
+
 ### 4. 排序算法
 https://www.jianshu.com/p/f4cca5ce055a
-| 排序算法 | 平均时间复杂度 | 最好情况 | 最坏情况 | 空间复杂度 |
-| - | :-: | :-: | :-: | :-: |
-|冒泡排序|O($n^2$)|O(n)|O($n^2$)|O(1)|
-|选择排序|O($n^2$)|O($n^2$)|O($n^2$)|O(1)|
-|插入排序|O($n^2$)|O(n)|O($n^2$)|O(1)|
-|希尔排序|O($nlogn$)|O($nlog^2n$)|O($nlog^2n$)|O(1)|
-|归并排序|O($nlogn$)|O($nlogn$)|O($nlogn$)|O(n)|
-|快速排序|O($nlogn$)|O($nlogn$)|O($n^2$)|O($logn$)|
+| 排序算法 | 平均时间复杂度 | 最好情况 | 最坏情况 | 空间复杂度 | 稳定性 | 复杂性 |
+| - | :-: | :-: | :-: | :-: | :-: | :-: |
+|冒泡排序|O($n^2$)|O(n)|O($n^2$)|O(1)|稳定|简单|
+|选择排序|O($n^2$)|O($n^2$)|O($n^2$)|O(1)|不稳定|简单|
+|插入排序|O($n^2$)|O(n)|O($n^2$)|O(1)|稳定|简单|
+|希尔排序|O($nlogn$)|O($nlog^2n$)|O($nlog^2n$)|O(1)|不稳定|较复杂|
+|归并排序|O($nlogn$)|O($nlogn$)|O($nlogn$)|O(n)|稳定|较复杂|
+|快速排序|O($nlogn$)|O($nlogn$)|O($n^2$)|O($logn$)|不稳定|较复杂|
+|堆排序|O($nlogn$)|O($nlogn$)|O($nlogn$)|O(1)|不稳定|较复杂|
+|基数排序|$O(d(n+r))$|$O(d(n+r))$|$O(d(n+r))$|$O(r)$|稳定|较复杂|
 
 栈：先进后出
 队列：先进先出
