@@ -38,6 +38,9 @@ npm test
 #### 148. [链表的排序](https://github.com/materialcoder/leetcode-js/blob/master/code/chain/148.js)
 #### 141. [环形链表](https://github.com/materialcoder/leetcode-js/blob/master/code/chain/141.js)
 
+#### 54. [螺旋矩阵](https://github.com/materialcoder/leetcode-js/blob/master/code/matrix/54.js)
+#### 48. [旋转图像](https://github.com/materialcoder/leetcode-js/blob/master/code/matrix/48.js)
+
 ### 4. 排序算法
 https://www.jianshu.com/p/f4cca5ce055a
 | 排序算法 | 平均时间复杂度 | 最好情况 | 最坏情况 | 空间复杂度 | 稳定性 | 复杂性 |
