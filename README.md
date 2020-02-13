@@ -44,6 +44,8 @@ npm test
 #### 101. [对称二叉树](https://github.com/materialcoder/leetcode-js/blob/master/code/btree/101.js)
 #### 98. [验证二叉搜索树](https://github.com/materialcoder/leetcode-js/blob/master/code/btree/98.js)
 
+#### 451. [根据字符出现频率排序](https://github.com/materialcoder/leetcode-js/blob/master/code/heap/451.js)
+
 ### 4. 排序算法
 https://www.jianshu.com/p/f4cca5ce055a
 | 排序算法 | 平均时间复杂度 | 最好情况 | 最坏情况 | 空间复杂度 | 稳定性 | 复杂性 |
@@ -60,3 +62,5 @@ https://www.jianshu.com/p/f4cca5ce055a
 栈：先进后出
 
 队列：先进先出
+
+堆：必须是完全二叉树；任一节点的值是其子树所有节点的最大值（最大堆）或最小值（最小堆）
