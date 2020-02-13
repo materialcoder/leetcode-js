@@ -45,6 +45,7 @@ npm test
 #### 98. [验证二叉搜索树](https://github.com/materialcoder/leetcode-js/blob/master/code/btree/98.js)
 
 #### 451. [根据字符出现频率排序](https://github.com/materialcoder/leetcode-js/blob/master/code/heap/451.js)
+#### 313. [超级丑数](https://github.com/materialcoder/leetcode-js/blob/master/code/heap/313.js)
 
 ### 4. 排序算法
 https://www.jianshu.com/p/f4cca5ce055a
