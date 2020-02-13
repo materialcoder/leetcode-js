@@ -41,6 +41,9 @@ npm test
 #### 54. [螺旋矩阵](https://github.com/materialcoder/leetcode-js/blob/master/code/matrix/54.js)
 #### 48. [旋转图像](https://github.com/materialcoder/leetcode-js/blob/master/code/matrix/48.js)
 
+#### 101. [对称二叉树](https://github.com/materialcoder/leetcode-js/blob/master/code/btree/101.js)
+#### 98. [验证二叉搜索树](https://github.com/materialcoder/leetcode-js/blob/master/code/btree/98.js)
+
 ### 4. 排序算法
 https://www.jianshu.com/p/f4cca5ce055a
 | 排序算法 | 平均时间复杂度 | 最好情况 | 最坏情况 | 空间复杂度 | 稳定性 | 复杂性 |
@@ -55,4 +58,5 @@ https://www.jianshu.com/p/f4cca5ce055a
 |基数排序|$O(d(n+r))$|$O(d(n+r))$|$O(d(n+r))$|$O(r)$|稳定|较复杂|
 
 栈：先进后出
+
 队列：先进先出
