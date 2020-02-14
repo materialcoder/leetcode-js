@@ -47,6 +47,9 @@ npm test
 #### 451. [根据字符出现频率排序](https://github.com/materialcoder/leetcode-js/blob/master/code/heap/451.js)
 #### 313. [超级丑数](https://github.com/materialcoder/leetcode-js/blob/master/code/heap/313.js)
 
+#### 122. [买卖股票的最佳时机 II](https://github.com/materialcoder/leetcode-js/blob/master/code/greed/122.js)
+#### 860. [柠檬水找零](https://github.com/materialcoder/leetcode-js/blob/master/code/greed/860.js)
+
 ### 4. 排序算法
 https://www.jianshu.com/p/f4cca5ce055a
 | 排序算法 | 平均时间复杂度 | 最好情况 | 最坏情况 | 空间复杂度 | 稳定性 | 复杂性 |
@@ -65,3 +68,6 @@ https://www.jianshu.com/p/f4cca5ce055a
 队列：先进先出
 
 堆：必须是完全二叉树；任一节点的值是其子树所有节点的最大值（最大堆）或最小值（最小堆）
+
+贪心算法：贪心算法（又称贪婪算法）是指，在对问题求解时，总是做出在当前看来是最好的选择。也就是说，不从整体最优上加以考虑，他所做出的是在某种意义上的局部最优解。
+贪心算法不是对所有问题都能得到整体最优解，关键是贪心策略的选择，选择的贪心策略必须具备无后效性，即某个状态以前的过程不会影响以后的状态，只与当前状态有关。
